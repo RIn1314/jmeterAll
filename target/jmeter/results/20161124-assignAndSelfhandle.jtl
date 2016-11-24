@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="11" lt="11" ts="1479959019139" s="true" lb="http://127.0.0.1/cdsxfsys/login/show" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3922"/>
+<httpSample t="20" lt="20" ts="1479959019156" s="true" lb="http://127.0.0.1/cdsxfsys/login/in" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1039"/>
+<httpSample t="2" lt="2" ts="1479959019176" s="true" lb="http://127.0.0.1/cdsxfsys/frame/mainDiv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="466"/>
+<httpSample t="2" lt="2" ts="1479959019179" s="true" lb="http://127.0.0.1/cdsxfsys/frame/main" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1036"/>
+<httpSample t="11" lt="11" ts="1479959019182" s="true" lb="http://127.0.0.1/cdsxfsys/frame/top" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4459"/>
+<httpSample t="49" lt="49" ts="1479959019193" s="true" lb="http://127.0.0.1/cdsxfsys/frame/left" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="19531"/>
+<httpSample t="3" lt="3" ts="1479959019242" s="true" lb="http://127.0.0.1/cdsxfsys/frame/index" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4295"/>
+<httpSample t="27" lt="27" ts="1479959019246" s="true" lb="http://127.0.0.1/cdsxfsys/case/unHandleCases" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22961"/>
+<httpSample t="6" lt="6" ts="1479959019274" s="true" lb="http://127.0.0.1/cdsxfsys/news/weatherHasNews" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="165"/>
+<httpSample t="1558" lt="1556" ts="1479959019280" s="true" lb="http://127.0.0.1/cdsxfsys/case/caseDetails" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="71558"/>
+<httpSample t="29" lt="29" ts="1479959020838" s="true" lb="http://127.0.0.1/cdsxfsys/case/unHandleCases#" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22961"/>
+<httpSample t="20" lt="20" ts="1479959020868" s="true" lb="http://127.0.0.1/cdsxfsys/assign/checkDepUser" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="154"/>
+<httpSample t="23" lt="23" ts="1479959020889" s="true" lb="http://127.0.0.1/cdsxfsys/case/checkDesObject" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="154"/>
+<httpSample t="516" lt="515" ts="1479959020912" s="true" lb="http://127.0.0.1/cdsxfsys/assign/assignShow" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11307"/>
+<httpSample t="389" lt="389" ts="1479959021428" s="true" lb="http://127.0.0.1/cdsxfsys/assign/assignCase" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1488"/>
+<httpSample t="514" lt="514" ts="1479959021818" s="true" lb="http://127.0.0.1/cdsxfsys/assign/assignShow" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="11307"/>
+<httpSample t="2" lt="2" ts="1479959022333" s="true" lb="http://127.0.0.1/cdsxfsys/login/out" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="3849"/>
+<httpSample t="20" lt="20" ts="1479959022335" s="true" lb="http://127.0.0.1/cdsxfsys/login/in" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1034"/>
+<httpSample t="2" lt="2" ts="1479959022356" s="true" lb="http://127.0.0.1/cdsxfsys/frame/mainDiv" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="466"/>
+<httpSample t="1" lt="1" ts="1479959022359" s="true" lb="http://127.0.0.1/cdsxfsys/frame/main" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1036"/>
+<httpSample t="11" lt="11" ts="1479959022361" s="true" lb="http://127.0.0.1/cdsxfsys/frame/top" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4483"/>
+<httpSample t="38" lt="38" ts="1479959022372" s="true" lb="http://127.0.0.1/cdsxfsys/frame/left" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13974"/>
+<httpSample t="2" lt="2" ts="1479959022410" s="true" lb="http://127.0.0.1/cdsxfsys/frame/index" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="4065"/>
+<httpSample t="20" lt="20" ts="1479959022413" s="true" lb="http://127.0.0.1/cdsxfsys/case/unHandleCases" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13912"/>
+<httpSample t="25" lt="24" ts="1479959022433" s="true" lb="http://127.0.0.1/cdsxfsys/news/weatherHasNews" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="76851"/>
+<httpSample t="24" lt="24" ts="1479959022459" s="true" lb="http://127.0.0.1/cdsxfsys/news/changeNews" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="174"/>
+<httpSample t="2293" lt="2291" ts="1479959022483" s="true" lb="http://127.0.0.1/cdsxfsys/case/caseDetails" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="78542"/>
+<httpSample t="21" lt="21" ts="1479959024778" s="true" lb="http://127.0.0.1/cdsxfsys/case/unHandleCases#" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13912"/>
+<httpSample t="1723" lt="1721" ts="1479959024800" s="true" lb="http://127.0.0.1/cdsxfsys/assign/agreeAssign" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="78542"/>
+<httpSample t="19" lt="19" ts="1479959026524" s="true" lb="http://127.0.0.1/cdsxfsys/case/acceptBook" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="16671"/>
+<httpSample t="8" lt="8" ts="1479959026544" s="true" lb="http://127.0.0.1/cdsxfsys/case/saveAcceptBook2" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1358"/>
+<httpSample t="2587" lt="2586" ts="1479959026552" s="true" lb="http://127.0.0.1/cdsxfsys/case/caseDetails" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="78542"/>
+<httpSample t="28" lt="28" ts="1479959029140" s="true" lb="http://127.0.0.1/cdsxfsys/case/isSelectSelfHandle" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="154"/>
+<httpSample t="84" lt="84" ts="1479959029168" s="true" lb="http://127.0.0.1/cdsxfsys/selfHandle/selfProcessingUnitShow2" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="25976"/>
+<httpSample t="28" lt="28" ts="1479959029253" s="true" lb="http://127.0.0.1/cdsxfsys/selfHandle/selfProcessing" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1358"/>
+<httpSample t="33" lt="33" ts="1479959029281" s="true" lb="http://127.0.0.1/cdsxfsys/case/processTypeDetailsShow" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="21283"/>
+<httpSample t="1" lt="1" ts="1479959029315" s="true" lb="http://127.0.0.1/cdsxfsys/register/removeSession" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="141"/>
+<httpSample t="4" lt="4" ts="1479959029317" s="true" lb="http://127.0.0.1/cdsxfsys/news/getUnhandleNewsNum" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="152"/>
+
+</testResults>
